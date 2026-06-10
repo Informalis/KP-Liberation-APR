@@ -83,12 +83,12 @@ KPLIB_r_weapons_3 = [
 
 // Uniforms
 KPLIB_r_uniforms_1 = [
-    "CUP_U_I_Villager_03",
-    "CUP_U_I_Woodlander03",
-    "CUP_U_I_Woodlander_02",
-    "CUP_U_I_Worker_02",
-    "CUP_U_I_Villager_04",
-    "CUP_U_I_Woodlander_01",
+    "CUP_U_C_Villager_03",
+    "CUP_U_C_Woodlander_03",
+    "CUP_U_C_Woodlander_02",
+    "CUP_U_C_Worker_02",
+    "CUP_U_C_Villager_04",
+    "CUP_U_C_Woodlander_01",
     "CUP_U_C_Woodlander_04",
     "CUP_U_C_Citizen_04",
     "CUP_U_C_Citizen_01"
@@ -111,28 +111,14 @@ KPLIB_r_uniforms_3 = [
     "CUP_U_I_GUE_Flecktarn3",
     "CUP_U_I_GUE_Flecktarn",
     "CUP_U_I_Gillie_Top",
-    "U_I_C_Soldier_Para_1_F",
-    "U_I_C_Soldier_Para_2_F",
-    "U_I_C_Soldier_Para_3_F",
-    "U_I_C_Soldier_Para_4_F",
-    "U_I_C_Soldier_Camo_F"
+    "CUP_U_I_GUE_Flecktarn4",
+    "CUP_U_I_GUE_Woodland1"
 ];
 
 // Vests
 KPLIB_r_vests_1 = [
     "CUP_V_I_Guerilla_Jacket",
-    "V_LegStrapBag_coyote_F",
-    "V_LegStrapBag_olive_F",
-    "V_LegStrapBag_black_F",
-    "V_Pocketed_coyote_F",
-    "V_Pocketed_olive_F",
-    "V_Pocketed_black_F",
-    "V_BandollierB_cbr",
-    "V_BandollierB_rgr",
-    "V_BandollierB_khk",
-    "V_BandollierB_oli",
-    "V_BandollierB_blk",
-    "V_BandollierB_ghex_F"
+    "CUP_V_I_Carrier_Belt"
 ];
 
 KPLIB_r_vests_2 = [
