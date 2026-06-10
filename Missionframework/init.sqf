@@ -98,7 +98,7 @@ if ( isServer) then {
                     _unit linkItem _x;            //  Add and automatically equip special props
                 } foreach [
                     "ItemCompass",
-                    //"ItemGPS",
+                    "ItemGPS",
                     "ItemMap",
                     "ItemWatch"
                 ];
