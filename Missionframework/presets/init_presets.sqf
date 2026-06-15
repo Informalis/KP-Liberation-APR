@@ -268,6 +268,8 @@ KPLIB_typeAirClasses   = +KPLIB_b_air_classes;
 
 // Military alphabet used for FOBs and convoys
 KPLIB_militaryAlphabet = ["Alpha", "Bravo", "Charlie", "Delta", "Echo", "Foxtrot", "Golf", "Hotel", "India", "Juliet", "Kilo", "Lima", "Mike", "November", "Oscar", "Papa", "Quebec", "Romeo", "Sierra", "Tango", "Uniform", "Victor", "Whiskey", "X-Ray", "Yankee", "Zulu"];
+//Mobile Respawn phonetic alphabet (Joint Army/Navy from WW2)
+KPLIB_respawnAlphabet = ["Able", "Baker", "Charlie", "Dog", "Easy", "Fox", "George", "How", "Item", "Jig", "King", "Love", "Mike", "Nutley", "Oboe", "Peter", "Roger", "Sail", "Tare", "Uncle", "Victor", "William", "X-Ray", "Yoke", "Zebra"];
 
 // Misc variables
 markers_reset = [99999,99999,0];

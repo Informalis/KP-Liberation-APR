@@ -25,8 +25,8 @@ private _name = "VEHICLE_NOT_FOUND";
 
 if (!isNil "_msp") then {
     private _vehicle_idx = _respawn_vehicles find _msp;
-    if (_vehicle_idx != -1 && _vehicle_idx < count KPLIB_militaryAlphabet) then {
-        _name = KPLIB_militaryAlphabet select _vehicle_idx;
+    if (_vehicle_idx != -1 && _vehicle_idx < count KPLIB_respawnAlphabet) then {
+        _name = KPLIB_respawnAlphabet select _vehicle_idx;
     };
 };
 _name
